@@ -5,5 +5,5 @@ This is a full-stack web application using ASP.NET Core 3.1 and React.js with th
    ###### Database: MySQL
    ###### Backend: ASP.Net Core 3.1
 
-Deployment site was built using Azure Web Services with access link as following:
+Deployment site was built using Azure Web Services which can be access by click the following hyperlink:
 [OnlineBookStore](https://dotnetbooks.azurewebsites.net).
