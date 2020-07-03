@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/63a02715-8b35-4ecc-9f1e-744fc6eeec10/resourceGroups/dotnetbooks/providers/Microsoft.Web/sites/dotnetbooks",
+    "appService.deploySubpath": "publish"
+}
